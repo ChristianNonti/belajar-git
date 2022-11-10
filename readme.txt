@@ -1,6 +1,3 @@
 belajar GIT dengan semangat...
 belajar GIT itu indah....
-
-
-
-kjaflkjdsa
+belajar Git itu seperti Ke isekai
